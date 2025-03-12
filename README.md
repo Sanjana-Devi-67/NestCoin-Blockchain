@@ -1,4 +1,4 @@
-# Title: PayNest – Blockchain & AI Driven Business Finance for SME’s 
+# PayNest – Blockchain & AI Driven Business Finance for SME’s 
 # Description
 Developed PayNest, a decentralized financial ecosystem integrating blockchain and AI to empower 
 SMEs with smart lending, seamless crypto transactions, and AI-powered financial insights. The platform features 
